@@ -7,15 +7,19 @@ namespace Variables
         static void Main(string[] args)
         {
 
-            string university, fastFoodChain, graduate; //added string graduate
+            //declaring variables
+
+            string university, fastFoodChain, graduate; 
             int years;
             char letterGrade;
             bool didHeGraduate;
             double gpa;
             decimal hourlyWage;
 
+            Console.WriteLine("Let's write a story together! I'm going to need your help with a few of the details though.");
+
             //String 1
-            Console.Write("Enter the name of a university: ");
+            Console.Write("\nEnter the name of a university: ");
             university = Console.ReadLine();
 
 
@@ -23,6 +27,7 @@ namespace Variables
             Console.Write("Enter a whole number between 2 and 10: ");
             years = Convert.ToInt32(Console.ReadLine());
 
+            //char
             Console.Write("Enter a letter grade (A, B, C, D, or F): ");
             letterGrade = Convert.ToChar(Console.ReadLine());
 
@@ -55,10 +60,17 @@ namespace Variables
 
 
             //Mad Libs
-            Console.WriteLine("\nMy brother attended " + university + " for " + years + " years.");
+
+            //How I originally wrote it. Way messier.
+            /*Console.WriteLine("\nMy brother attended " + university + " for " + years + " years.");
             Console.WriteLine("On his last report card he got straight " + letterGrade + "s.");
             Console.WriteLine("He " + graduate + " in May with a " + gpa + " GPA.");
-            Console.WriteLine("Now he works at " + fastFoodChain + " making $" + hourlyWage + " per hour.");
+            Console.WriteLine("Now he works at " + fastFoodChain + " making $" + hourlyWage + " per hour.");*/
+
+            Console.WriteLine($"\nMy brother attended {university} for {years} years.");
+            Console.WriteLine($"On his last report card he got straight {letterGrade}s.");
+            Console.WriteLine($"He {graduate} in May with a {gpa} GPA.");
+            Console.WriteLine($"Now he works at {fastFoodChain} making ${hourlyWage} per hour.");
 
             Console.ReadLine();
         }
