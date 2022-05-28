@@ -1,0 +1,14 @@
+/Users/huntersoldan/Projects/Variables/Variables/bin/Debug/netcoreapp3.1/VariableMadLib
+/Users/huntersoldan/Projects/Variables/Variables/bin/Debug/netcoreapp3.1/VariableMadLib.deps.json
+/Users/huntersoldan/Projects/Variables/Variables/bin/Debug/netcoreapp3.1/VariableMadLib.runtimeconfig.json
+/Users/huntersoldan/Projects/Variables/Variables/bin/Debug/netcoreapp3.1/VariableMadLib.runtimeconfig.dev.json
+/Users/huntersoldan/Projects/Variables/Variables/bin/Debug/netcoreapp3.1/VariableMadLib.dll
+/Users/huntersoldan/Projects/Variables/Variables/bin/Debug/netcoreapp3.1/VariableMadLib.pdb
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/VariableMadLib.csproj.AssemblyReference.cache
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/VariableMadLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/VariableMadLib.AssemblyInfoInputs.cache
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/VariableMadLib.AssemblyInfo.cs
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/VariableMadLib.csproj.CoreCompileInputs.cache
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/VariableMadLib.dll
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/VariableMadLib.pdb
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/VariableMadLib.genruntimeconfig.cache

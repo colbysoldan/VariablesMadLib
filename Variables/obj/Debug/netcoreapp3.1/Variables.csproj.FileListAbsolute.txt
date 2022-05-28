@@ -1,0 +1,14 @@
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.AssemblyReference.cache
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfoInputs.cache
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfo.cs
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.CoreCompileInputs.cache
+/Users/huntersoldan/Projects/Variables/Variables/bin/Debug/netcoreapp3.1/Variables
+/Users/huntersoldan/Projects/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.deps.json
+/Users/huntersoldan/Projects/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.json
+/Users/huntersoldan/Projects/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.dev.json
+/Users/huntersoldan/Projects/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.dll
+/Users/huntersoldan/Projects/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.pdb
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.dll
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.pdb
+/Users/huntersoldan/Projects/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.genruntimeconfig.cache
