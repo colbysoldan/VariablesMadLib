@@ -45,10 +45,16 @@ namespace Variables
                  graduate = "dropped out";
             }
 
+
+            //Double
+            do
+            {
+                Console.Write("Enter a number between 1.00 and 3.00: ");
+                gpa = Convert.ToDouble(Console.ReadLine());
+            }
+            while (gpa > 3.00 || gpa < 1.00);
+
             
-            //Double 
-            Console.Write("Enter a number between 1.00 and 3.00: ");
-            gpa = Convert.ToDouble(Console.ReadLine());
 
             //String 3
             Console.Write("Enter the name of a fast food chain: ");
@@ -57,8 +63,7 @@ namespace Variables
             //Decimal
             Console.Write("Enter a value between 1.00 and 100.00: ");
             hourlyWage = Convert.ToDecimal(Console.ReadLine());
-
-
+            decimal yearlySalary = hourlyWage * 8 * 5 * 52;
             //Mad Libs
 
             //How I originally wrote it. Way messier.
@@ -70,7 +75,7 @@ namespace Variables
             Console.WriteLine($"\nMy brother attended {university} for {years} years.");
             Console.WriteLine($"On his last report card he got straight {letterGrade}s.");
             Console.WriteLine($"He {graduate} in May with a {gpa} GPA.");
-            Console.WriteLine($"Now he works at {fastFoodChain} making ${hourlyWage} per hour.");
+            Console.WriteLine($"Now he works at {fastFoodChain} making ${yearlySalary} per year.");
 
             Console.ReadLine();
         }

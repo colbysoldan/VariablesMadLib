@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/huntersoldan/Projects/Variables/Variables/Variables.csproj",
+      "projectUniqueName": "/Users/huntersoldan/Desktop/csharp27/Variables/Variables/Variables.csproj",
       "projectName": "Variables",
-      "projectPath": "/Users/huntersoldan/Projects/Variables/Variables/Variables.csproj",
+      "projectPath": "/Users/huntersoldan/Desktop/csharp27/Variables/Variables/Variables.csproj",
       "packagesPath": "/Users/huntersoldan/.nuget/packages/",
-      "outputPath": "/Users/huntersoldan/Projects/Variables/Variables/obj/",
+      "outputPath": "/Users/huntersoldan/Desktop/csharp27/Variables/Variables/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/huntersoldan/.nuget/NuGet/NuGet.Config"
